@@ -1,0 +1,36 @@
+.header {
+  color: #8BC34A;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.form {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.form-control:focus {
+  border-color: #64DD17
+}
+
+.input-control {
+  padding: 20px;
+}
+
+.side-margin {
+  margin-left: 100px;
+  margin-right: 100px
+}
+
+.panel-head {
+  padding: 1px 15px
+}
+
+.align-center {
+  text-align: center
+}
+
+.form-button {
+  text-align: center
+}
